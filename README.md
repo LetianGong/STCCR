@@ -1,4 +1,8 @@
 # STCCR model
+# Requirements
+- python >= 3.6
+- PyTorch >= 1.8
+
 
 We give three datasets (weeplace gowalla-tky and gowalla-nyc ).
 
